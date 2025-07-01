@@ -1,0 +1,11 @@
+Q1.What is Data?
+->data is a collection of facts, information, and statistics and this can be in various forms such as numbers, text, sound, images, or any other format.
+
+Q2. What is filesystem?
+->A file system is a method an operating system uses to store, organize, and manage files and directories on a storage device. 
+
+Q3. What are types of database?
+-> 1)RDBMS
+   2)NoSQL
+   3)In-Memory Database
+   4)Cloud Database
